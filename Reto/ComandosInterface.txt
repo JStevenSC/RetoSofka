@@ -1,0 +1,4 @@
+pyuic5 -x Principal.ui -o Principal.py
+pyuic5 -x Tripuladas.ui -o Tripuladas.py
+pyuic5 -x NoTripuladas.ui -o NoTripuladas.py
+pyuic5 -x Lanzamiento.ui -o Lanzamiento.py
